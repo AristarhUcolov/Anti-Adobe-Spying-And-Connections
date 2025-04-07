@@ -1,6 +1,6 @@
-# This is method of hide connections from the Adobe
-# Used for hide ads, proxy, connections and spying by Adobe
-# Use this list for DNS example like PI-Hole, AdGuard and much more
+! This is method of hide connections from the Adobe
+! Used for hide ads, proxy, connections and spying by Adobe
+! Use this list for DNS example like PI-Hole, AdGuard and much more
 
 ||adobe.io*
 ||vgetwxoqno.adobe.io*
